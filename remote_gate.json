@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "version": 2026091501,
+  "issuedAt": 1789430400,
+  "expiresAt": 1797292800,
+  "default": "premium",
+  "remote": {
+    "power": "premium",
+    "directionPad": "premium",
+    "ok": "premium",
+    "touchpad": "premium",
+    "numberPad": "premium",
+    "back": "premium",
+    "home": "premium",
+    "input": "premium",
+    "option": "premium",
+    "volumeUp": "premium",
+    "volumeDown": "premium",
+    "volumeMute": "premium",
+    "channelUp": "premium",
+    "channelDown": "premium",
+    "channelList": "premium",
+    "info": "premium",
+    "audio": "premium",
+    "menu": "premium",
+    "keyboard": "premium",
+    "voice": "premium",
+    "play": "premium",
+    "forward": "premium",
+    "reverse": "premium",
+    "instantReplay": "premium"
+  },
+  "apps": {
+    "appLaunch": "premium"
+  },
+  "cast": {
+    "castPhotos": "premium",
+    "castVideos": "premium",
+    "castIPTV": "premium"
+  }
+}
