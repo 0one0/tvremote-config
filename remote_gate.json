@@ -6,8 +6,8 @@
   "default": "premium",
   "remote": {
     "power": "premium",
-    "directionPad": "premium",
-    "ok": "premium",
+    "directionPad": "free",
+    "ok": "free",
     "touchpad": "premium",
     "numberPad": "premium",
     "back": "premium",
